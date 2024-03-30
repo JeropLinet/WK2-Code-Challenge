@@ -1,26 +1,18 @@
-// let string='The Quick Brown Fox'
-// function swapCase(string){
-//     string.split(' ').map(string =>{
-//     if (string === string.toUpperCase){
-//         return string.toLowerCase
-//     }else{
-//         return string.toUpperCase
-//     }
-// })
-// }
-// const swappedString=swapCase(string)
-// console.log(swapCase)
-function swapCase(str) {
-    return str.split('').map(char => {
-      if (char === char.toUpperCase()) {
-        return char.toLowerCase();
-      } else {
-        return char.toUpperCase();
-      }
-    }).join('');
-  }
-  
-  const sentence = "Hello World!";
-  const swappedSentence = swapCase(sentence);
-  
-  console.log(swappedSentence)
+
+//Creation of a function
+function swapCase(swap){
+  return swap.split('').map(swap =>{
+    //The .split enables manupulation of the sentence character by character
+    //The .map iterates through each character in the sentence
+    if(swap === swap.toUpperCase()){
+      return swap.toLowerCase()
+    }else {
+      return swap.toUpperCase()
+    }
+    //the if..else statement above checks the upper case characters and turns them to lower case
+  }).join('')
+  //The .join merges all the splitted characters back to one string
+}
+const sentence="The Quick Brown Fox"
+const swapSentence= swapCase(sentence)
+console.log(swapSentence)
