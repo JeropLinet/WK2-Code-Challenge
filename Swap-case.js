@@ -14,5 +14,5 @@ function swapCase(swap){
   //The .join merges all the splitted characters back to one string
 }
 const sentence="The Quick Brown Fox"
-const swapSentence= swapCase(sentence)
-console.log(swapSentence)
+const swapSentence= swapCase(sentence) //Output will be tHE qUICK bROWN fOX
+console.log(swapSentence) 

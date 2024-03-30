@@ -7,7 +7,7 @@
 #### By *Kibet Linet Jerop*
 
 ## Description
-from this repository we have three different projects that can beviewed with their own pages when the HTML part is open,
+This repository contains three diffrent challanges that are stated below:
 
 => Swap-case System
 A system that swaps the case of any character in the sentence input. If the character is in upper case the program swaps it to be in lower case.
