@@ -9,16 +9,16 @@
 ## Description
 This repository contains three diffrent challanges that are stated below:
 
-=> Swap-case System
+#### => Swap-case System
   A system that swaps the case of any character in the sentence input. If the character is in upper case the program swaps it to be in lower case.
 
-=> Generate-Arrays-Between System
+#### => Generate-Arrays-Between System
   This program allows a user to input two numbers and generates a new array between them.
   For example;
   if the inserted numbers are [1,6] the program outputs
   [1,2,3,4,5,6]
 
-=> Prime-Number-Identifier System
+#### => Prime-Number-Identifier System
   This system has a function that takes an array of numbers as input and returns a new array containing only the prime numbers from the original array.
   For example;
   if the inserted numbers are [1,2,3,4,5,6] the program outputs
