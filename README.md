@@ -1,6 +1,6 @@
 # WK2-Code-Challenge
 
-# (Swap-case System,Generate-Arrays system ,Prime-Number-identifier system)
+# (Swap-case System,Generate-Arrays-Between system ,Prime-Number-identifier system)
 
 #### Date, 2024/03/30
 
@@ -12,7 +12,7 @@ This repository contains three diffrent challanges that are stated below:
 => Swap-case System
 A system that swaps the case of any character in the sentence input. If the character is in upper case the program swaps it to be in lower case.
 
-=> Generate-Arrays System
+=> Generate-Arrays-Between System
 This program allows a user to input two numbers and generates a new array between them.
  For example;
   if the inserted numbers are [1,6] the program outputs
