@@ -1,5 +1,3 @@
-
-//Creation of a function
 function swapCase(swap){
   return swap.split('').map(swap =>{
     //The .split enables manupulation of the sentence character by character
