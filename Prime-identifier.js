@@ -15,4 +15,4 @@ function generatePrimeNumbers(num){
  
 }
 //.filter returns all the values that passed the test from the else if statement above
-console.log([1,2,3,73,101,103,6].filter(generatePrimeNumbers))
+console.log([1,2,3,73,101,103,6].filter(generatePrimeNumbers)) //Insert the numbers here

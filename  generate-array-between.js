@@ -4,4 +4,4 @@ function generateArrayBetween(num1,num2){
         num.push(n) //.push allows us to append a value in the original array
     } return num
 }
-console.log(generateArrayBetween(2,4))
+console.log(generateArrayBetween(2,4)) //Insert num1 and num 2 here
