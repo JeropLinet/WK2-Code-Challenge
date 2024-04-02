@@ -44,7 +44,7 @@ JavaScript
 GitHub
 
 ## Support and contact details
-https://github.com/Nakupendeza 
+[My GitHub Account] (https://github.com/Nakupendeza) 
 
 ### License
 The content of this site is licensed under the MIT license
