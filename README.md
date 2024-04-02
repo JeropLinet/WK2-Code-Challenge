@@ -31,8 +31,9 @@ This repository contains three diffrent challanges that are stated below:
 Git
 
 ### Installation instruction
+In your terminal, paste the code below;
 ```bash
-Git clone https://github.com/Nakupendeza/WK2-Code-Challenge.git 
+git clone https://github.com/Nakupendeza/WK2-Code-Challenge.git 
 
 ```
 
